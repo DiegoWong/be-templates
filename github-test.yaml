@@ -55,6 +55,7 @@ spec:
               - github.com
               - gitlab.com
               - gitlab.eng.vmware.com
+              - dev.azure.com
   steps:
     - id: template
       name: Fetch Skeleton + Template
